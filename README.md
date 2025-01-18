@@ -16,7 +16,7 @@ A SwiftUI app that uses Machine Learning to identify the scientific name and bre
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/animal-identifier.git](https://github.com/caarlosdlg/SwiftUI-Machine-Learning-.git
+   git clone https://github.com/caarlosdlg/SwiftUI-Machine-Learning-.git
    ```
 2. Open the project in Xcode.
 3. Build and run the app on a simulator or a connected iOS device.
@@ -30,11 +30,6 @@ A SwiftUI app that uses Machine Learning to identify the scientific name and bre
 - The app uses a Core ML model trained with a diverse dataset of animal photos.
 - Model trained using [TensorFlow/PyTorch/Core ML Tools].
 - Dataset sourced from [Dataset Source].
-
-## Screenshots
-Include images of the app's interface here. Example:
-![Home Screen](screenshots/home.png)  
-![Prediction Screen](screenshots/prediction.png)
 
 ## Usage
 - Open the app.
